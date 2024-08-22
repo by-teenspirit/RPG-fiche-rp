@@ -19,6 +19,7 @@
   width: 500px;
   margin: auto;
   color: var(--color-txt);
+  line-height: normal;
 }
 
 .header-ls-1 {
@@ -36,11 +37,16 @@
 }
 
 .titre-ls-1 {
-  font-family: var(--typo-title-2);
+  font-family: var(--typo-title);
   color: var(--accent);
   font-size: 32px;
 }
 
+.titre-ls-2 {
+  font-family: var(--typo-title-2);
+  color: var(--accent);
+  font-size: 32px;
+}
 .soustt-ls-1 {
   color: var(--color-txt);
   font-family: var(--typo-sub-title);
